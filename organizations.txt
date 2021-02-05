@@ -1,0 +1,2171 @@
+Halkbank
+VakıfBank
+Ziraat Bankası
+Akbank
+Anadolubank
+Fibabanka
+Şekerbank
+Turkish Bank
+Türk Ekonomi Bankası
+Türkiye İş Bankası
+Yapı Kredi Bankası
+Adabank
+Birleşik Fon Bankası
+Alternatif Bank
+Arap Türk Bankası
+Bank of China Turkey
+Burgan Bank
+Citibank
+Denizbank
+Deutsche Bank
+Garanti BBVA
+HSBC
+ICBC Turkey Bank
+ING Bank
+MUFG Bank Turkey
+Odeabank
+QNB Finansbank
+Rabobank
+T-Bank
+Bank Mellat
+Habib Bank Limited
+Intesa Sanpaolo
+JPMorgan Chase Bank
+Royal Bank of Scotland PLC.
+Société Générale
+İller Bankası
+Türk Eximbank
+Türkiye Kalkınma Bankası
+Aktif Bank
+Diler Yatırım Bankası
+Golden Global Bank
+GSD Yatırım Bankası
+Nurol Yatırım Bankası
+Takasbank
+Türkiye Sınai Kalkınma Bankası
+Bankpozitif
+Merrill Lynch
+PASHA Bank
+Standard Chartered Yatırım Bankası Türk
+Katılım Bankaları
+Türkiye Emlak Katılım Bankası
+Vakıf Katılım Bankası
+Ziraat Katılım
+Albaraka Türk
+Kuveyt Türk
+Türkiye Finans Katılım Bankası
+Üniversite
+Abdullah Gül Üniversitesi
+Acıbadem Üniversitesi
+Adana Bilim ve Teknoloji Üniversitesi
+Adıyaman Üniversitesi
+Afyon Kocatepe Üniversitesi
+Afyonkarahisar Sağlık Bilimleri Üniversitesi
+Ağrı İbrahim Çeçen Üniversitesi
+Akdeniz Üniversitesi
+Aksaray Üniversitesi
+Alanya Alaaddin Keykubat Üniversitesi
+Alanya Hamdullah Emin Paşa Üniversitesi
+Altınbaş Üniversitesi
+Amasya Üniversitesi
+Anadolu Üniversitesi
+Anka Teknoloji Üniversitesi
+Ankara Bilim Üniversitesi
+Ankara Hacı Bayram Veli Üniversitesi
+Ankara Medipol Üniversitesi
+Ankara Müzik ve Güzel Sanatlar Üniversitesi
+Ankara Sosyal Bilimler Üniversitesi
+Ankara Üniversitesi
+Ankara Yıldırım Beyazıt Üniversitesi
+Antalya Akev Üniversitesi
+Antalya Bilim Üniversitesi
+Ardahan Üniversitesi
+Artvin Çoruh Üniversitesi
+Atatürk Üniversitesi
+Atılım Üniversitesi
+Avrasya Üniversitesi
+Aydın Adnan Menderes Üniversitesi
+Bahçeşehir Üniversitesi
+Balıkesir Üniversitesi
+Bandırma Onyedi Eylül Üniversitesi
+Bartın Üniversitesi
+Başkent Üniversitesi
+Batman Üniversitesi
+Bayburt Üniversitesi
+Beykent Üniversitesi
+Beykoz Üniversitesi
+Bezmialem Vakıf Üniversitesi
+Bilecik Şeyh Edebali Üniversitesi
+Bingöl Üniversitesi
+Biruni Üniversitesi
+Bitlis Eren Üniversitesi
+Boğaziçi Üniversitesi
+Bolu Abant İzzet Baysal Üniversitesi
+Burdur Mehmet Akif Ersoy Üniversitesi
+Bursa Teknik Üniversitesi
+Bursa Uludağ Üniversitesi
+Çağ Üniversitesi
+Çanakkale Onsekiz Mart Üniversitesi
+Çankaya Üniversitesi
+Çankırı Karatekin Üniversitesi
+Çukurova Üniversitesi
+Demiroğlu Bilim Üniversitesi
+Dicle Üniversitesi
+Doğuş Üniversitesi
+Dokuz Eylül Üniversitesi
+Düzce Üniversitesi
+Ege Üniversitesi
+Erciyes Üniversitesi
+Erzincan Binali Yıldırım Üniversitesi
+Erzurum Teknik Üniversitesi
+Eskişehir Osmangazi Üniversitesi
+Eskişehir Teknik Üniversitesi
+Fatih Sultan Mehmet Üniversitesi
+Fenerbahçe Üniversitesi
+Fırat Üniversitesi
+Galatasaray Üniversitesi
+Gazi Üniversitesi
+Gaziantep İslam Bilim ve Teknoloji Üniversitesi
+Gaziantep Üniversitesi
+Gebze Teknik Üniversitesi
+Gedik Üniversitesi
+Giresun Üniversitesi
+Gümüşhane Üniversitesi
+Hacettepe Üniversitesi
+Hakkari Üniversitesi
+Haliç Üniversitesi
+Harran Üniversitesi
+Hasan Kalyoncu Üniversitesi
+Hatay Mustafa Kemal Üniversitesi
+Hitit Üniversitesi
+Iğdır Üniversitesi
+Isparta Uygulamalı Bilimler Üniversitesi
+Işık Üniversitesi
+İbn Haldun Üniversitesi
+İhsan Doğramacı Bilkent Üniversitesi
+İnönü Üniversitesi
+İskenderun Teknik Üniversitesi
+İstanbul 29 Mayıs Üniversitesi
+İstanbul Arel Üniversitesi
+İstanbul Atlas Üniversitesi
+İstanbul Aydın Üniversitesi
+İstanbul Ayvansaray Üniversitesi
+İstanbul Bilgi Üniversitesi
+İstanbul Esenyurt Üniversitesi
+İstanbul Galata Üniversitesi
+İstanbul Gedik Üniversitesi
+İstanbul Gelişim Üniversitesi
+İstanbul Kent Üniversitesi
+İstanbul Kültür Üniversitesi
+İstanbul Medeniyet Üniversitesi
+İstanbul Medipol Üniversitesi
+İstanbul Okan Üniversitesi
+İstanbul Rumeli Üniversitesi
+İstanbul Sabahattin Zaim Üniversitesi
+İstanbul Sağlık ve Teknoloji Üniversitesi
+İstanbul Teknik Üniversitesi
+İstanbul Ticaret Üniversitesi
+İstanbul Üniversitesi
+İstanbul Üniversitesi
+İstinye Üniversitesi
+İzmir Bakırçay Üniversitesi
+İzmir Demokrasi Üniversitesi
+İzmir Ekonomi Üniversitesi
+İzmir Kâtip Çelebi Üniversitesi
+İzmir Tınaztepe Üniversitesi
+İzmir Yüksek Teknoloji Enstitüsü
+Kadir Has Üniversitesi
+Kafkas Üniversitesi
+Kahramanmaraş İstiklal Üniversitesi
+Kahramanmaraş Sütçü İmam Üniversitesi
+Kapadokya Üniversitesi
+Karabük Üniversitesi
+Karadeniz Teknik Üniversitesi
+Karamanoğlu Mehmetbey Üniversitesi
+Kastamonu Üniversitesi
+Kayseri Üniversitesi
+Kırıkkale Üniversitesi
+Kırklareli Üniversitesi
+Kırşehir Ahi Evran Üniversitesi
+Kilis 7 Aralık Üniversitesi
+Kocaeli Sağlık ve Teknoloji Üniversitesi
+Kocaeli Üniversitesi
+Koç Üniversitesi
+Cerrahpaşa Tıp Fakültesi
+Konya Gıda ve Tarım Üniversitesi
+Konya Teknik Üniversitesi
+KTO Karatay Üniversitesi
+Kütahya Dumlupınar Üniversitesi
+Kütahya Sağlık Bilimleri Üniversitesi
+Lokman Hekim Üniversitesi
+Malatya Turgut Özal Üniversitesi
+Maltepe Üniversitesi
+Manisa Celal Bayar Üniversitesi
+Mardin Artuklu Üniversitesi
+Marmara Üniversitesi
+MEF Üniversitesi
+Mersin Üniversitesi
+Milli Savunma Üniversitesi
+Mimar Sinan Güzel Sanatlar Üniversitesi
+Muğla Sıtkı Koçman Üniversitesi
+Munzur Üniversitesi
+Muş Alparslan Üniversitesi
+Necmettin Erbakan Üniversitesi
+Nevşehir Hacı Bektaş Veli Üniversitesi
+Niğde Ömer Halisdemir Üniversitesi
+Nişantaşı Üniversitesi
+Nuh Naci Yazgan Üniversitesi
+Ondokuz Mayıs Üniversitesi
+Ordu Üniversitesi
+Orta Doğu Teknik Üniversitesi
+Osmaniye Korkut Ata Üniversitesi
+Ostim Teknik Üniversitesi
+Özyeğin Üniversitesi
+Pamukkale Üniversitesi
+Piri Reis Üniversitesi
+Polis Akademisi
+Recep Tayyip Erdoğan Üniversitesi
+Sabancı Üniversitesi
+Sağlık Bilimleri Üniversitesi
+Sakarya Uygulamalı Bilimler Üniversitesi
+Sakarya Üniversitesi
+Samsun Üniversitesi
+Sanko Üniversitesi
+Selçuk Üniversitesi
+Siirt Üniversitesi
+Sinop Üniversitesi
+Sivas Bilim ve Teknoloji Üniversitesi
+Sivas Cumhuriyet Üniversitesi
+Süleyman Demirel Üniversitesi
+Şırnak Üniversitesi
+Tarsus Üniversitesi
+TED Üniversitesi
+Tekirdağ Namık Kemal Üniversitesi
+TOBB Ekonomi ve Teknoloji Üniversitesi
+Tokat Gaziosmanpaşa Üniversitesi
+Toros Üniversitesi
+Trabzon Üniversitesi
+Trakya Üniversitesi
+Türk Hava Kurumu Üniversitesi
+Türk-Alman Üniversitesi
+Türk-Japon Bilim ve Teknoloji Üniversitesi
+Türkiye Uluslararası İslam, Bilim ve Teknoloji Üniversitesi
+Ufuk Üniversitesi
+Uşak Üniversitesi
+Üsküdar Üniversitesi
+Van Yüzüncü Yıl Üniversitesi
+Yalova Üniversitesi
+Yaşar Üniversitesi
+Yeditepe Üniversitesi
+Yeni Yüzyıl Üniversitesi
+Yıldız Teknik Üniversitesi
+Yozgat Bozok Üniversitesi
+Yüksek İhtisas Üniversitesi
+Zonguldak Bülent Ecevit Üniversitesi
+Faruk Saraç Tasarım Meslek Yüksekokulu
+Ataşehir Adıgüzel Meslek Yüksekokulu
+Avrupa Meslek Yüksekokulu
+TÜRKİYE PETROL RAFİNERİLERİ A.Ş.
+Petrol ve türevleri üretimi ve dağıtımı
+ENERJİ PİYASALARI İŞLETME A.Ş.
+TÜRK HAVA YOLLARI A.O.
+PETROL OFİSİ A.Ş.
+OPET PETROLCÜLÜK A.Ş.
+BİM BİRLEŞİK MAĞAZALAR A.Ş.
+FORD OTOMOTİV SANAYİ A.Ş.
+AHLATCI KUYUMCULUK SAN. VE TİC. A.Ş.
+ARÇELİK A.Ş.
+RC RÖNESANS İNŞAAT TAAHHÜT A.Ş.
+EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.
+AHLATCI METAL RAFİNERİ A.Ş
+EÜAŞ ELEKTRİK ÜRETİM A.Ş.
+TURKCELL İLETİŞİM HİZMETLERİ A.Ş.
+TÜRK TELEKOMÜNİKASYON A.Ş.
+ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.
+MİGROS TİCARET A.Ş.
+ENERJİSA ENERJİ ÜRETİM A.Ş.
+TOFAŞ TÜRK OTOMOBİL FABRİKASI A.Ş.
+İSTANBUL ALTIN RAFİNERİSİ A.Ş.
+SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş.
+VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.
+ŞOK MARKETLER TİCARET A.Ş.
+JTI TÜTÜN ÜRÜNLERİ PAZARLAMA A.Ş.
+ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.
+TUSAŞ - TÜRK HAVACILIK VE UZAY SANAYİ A.Ş.
+PETKİM PETROKİMYA HOLDİNG A.Ş.
+LİMAK İNŞAAT SANAYİ VE TİCARET A.Ş.
+TÜRKİYE ELEKTRİK İLETİM A.Ş.
+PEGASUS HAVA TAŞIMACILIĞI A.Ş.
+ENKA İNŞAAT VE SANAYİ A.Ş.
+TEKFEN İNŞAAT VE TESİSAT A.Ş.
+AYGAZ A.Ş.
+GRAM ALTIN PAZARLAMA SANAYİ VE TİCARET A.Ş.
+DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.
+ÇDAŞ ÇELİK ENERJİ TERSANE VE ULAŞIM SAN.A.Ş.
+TOPRAK MAHSULLERİ OFİSİ A.Ş.
+OTOKOÇ OTOMOTİV TİCARET VE SANAYİ A.Ş.
+AYTEMİZ AKARYAKIT DAĞITIM A.Ş.
+TOSÇELİK PROFİL VE SAÇ ENDÜSTRİSİ A.Ş.
+İSTANBUL GAZ DAĞITIM SANAYİ VE TİCARET A.Ş. (İGDAŞ)
+ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.
+LİMAK YATIRIM ENERJİ ÜRETİM İŞLETME HİZM. VE İNŞAAT A.Ş.
+ÜLKER BİSKÜVİ SANAYİ TİCARET A.Ş.
+İÇTAŞ İNŞAAT TİCARET VE SANAYİ A.Ş.
+MAPA İNŞAAT VE TİCARET A.Ş.
+DEVLET HAVA MEYDANLARI İŞLETMESİ GENEL MÜDÜRLÜĞÜ
+UNİLEVER SANAYİ VE TİCARET TÜRK A.Ş.
+TİRYAKİ AGRO GIDA SAN. VE TİC. A.Ş.
+TRAKYA CAM SANAYİİ A.Ş.
+GEDİZ ELEKTRİK PERAKENDE SATIŞ ANONİM ŞİRKETİ
+ENERJİSA ÜRETİM SANTRALLERİ A.Ş.
+BORÇELİK ÇELİK SANAYİ TİCARET A.Ş.
+CARREFOURSA CARREFOUR SABANCI TİCARET MERKEZİ A.Ş.
+KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.
+AKSA DOĞALGAZ DAĞITIM A.Ş.
+SARKUYSAN ELEKTROLİTİK BAKIR SANAYİ VE TİCARET A.Ş.
+THY OPET HAVACILIK YAKITLARI A.Ş.
+AKSA ENERJİ ÜRETİM A.Ş.
+TÜRKİYE PETROLLERİ A.O.
+KORDSA GLOBAL ENDÜSTRİYEL İPLİK VE KORD BEZİ SANAYİ VE TİCARET A.Ş.
+İNDEKS BİLGİSAYAR SİSTEMLERİ MÜHENDİSLİK SANAYİ VE TİCARET A.Ş.
+ASSAN ALÜMİNYUM SAN. VE TİC. A.Ş.
+NETLOG LOJİSTİK HİZMETLERİ A.Ş.
+BORUSAN MAKİNA VE GÜÇ SİSTEMLERİ SAN. VE TİC. A.Ş.
+ETİ MADEN İŞLETMELERİ GENEL MÜDÜRLÜĞÜ
+BORUSAN MANNESMANN BORU SANAYİ VE TİCARET A.Ş.
+OZON GİYİM SANAYİ VE TİCARET A.Ş.
+AYDEM ELEKTRİK PERAKENDE SATIŞ A.Ş.
+BİZİM TOPTAN SATIŞ MAĞAZALARI A.Ş.
+ÇELİKLER SEYİTÖMER ELEKTRİK ÜRETİM A.Ş.
+ETİ BAKIR A.Ş.
+POSTA VE TELGRAF TEŞKİLATI A.Ş.
+GÜBRE FABRİKALARI TAŞ.
+ANADOLU CAM SANAYİİ A.Ş.
+YOLBULAN BAŞTUĞ METALURJİ SAN A.Ş.
+ÇALIK ENERJİ SANAYİ VE TİCARET A.Ş.
+NUROL İNŞAAT VE TİCARET A.Ş.
+SODA SANAYİİ A.Ş.
+NADİR METAL RAFİNERİ SANAYİ VE TİCARET A.Ş.
+TEKNOSA İÇ VE DIŞ TİC. A.Ş.
+İZMİR DEMİR ÇELİK SANAYİ A.Ş.
+TÜRKİYE KÖMÜR İŞLETMELERİ KURUMU GENEL MÜDÜRLÜĞÜ
+GÜLERMAK AĞIR SANAYİ İNŞ. VE TAAHHÜT A.Ş.
+SAKARYA ELEKTRİK PERAKENDE SATIŞ A.Ş.
+MP TURKEY TURİZM A.Ş.
+KOTON
+SÜTAŞ
+TÜRK TRAKTÖR ZİRAAT MAKİNELERİ A.Ş.
+TOROS
+KONYA ŞEKER
+S.S. BURSA ECZACILARI ÜRT. TEMIN VE DAĞ. KOOP.
+MLP SAĞLIK HİZMETLERİ A.Ş.
+İPRAGAZ
+AKSA AKRİLİK
+ETS
+BRİDGESTONE
+YDA
+IATI TURİZM
+KORTEKS MENSUCAT
+BANVİT
+ALTINMARKA GIDA
+ODEON TURİZM İŞLETMECİLİĞİ A.Ş.
+EKOL LOJİSTİK
+BİLKOM BİLİŞİM
+RAM DIŞ TİCARET
+ZER MERKEZİ HİZMETLERİ VE TİC. A.Ş.
+TÜRKİYE ŞEKER FABRİKALARI A.Ş.
+DETAŞ SAC PROFİL DEMİR ÇELİK SAN. VE TİC. A.Ş.
+ONUR AIR
+ARENA BİLGİSAYAR
+BOYNER
+ULUSOY UN
+TAB GIDA
+GOODYEAR
+ASAŞ ALÜMİNYUM
+MMK METALURJİ
+İÇDAŞ ELEKTRİK ENERJİSİ ÜRETİM VE YATIRIM A.Ş.
+KAYSERİ ELEKTRİK
+İPEK MATBAACILIK SANAYİ VE TİCARET A.Ş.
+ROKETSAN
+ABDÜLKADİR ÖZCAN OTOMOTİV
+MAVİ GİYİM
+KAPTAN DEMİR ÇELİK
+ADVANSA SASA POLYESTER SANAYİ A.Ş
+KÖKSAN PET VE PLASTİK
+STM SAVUNMA TEKNOLOJİLERİ
+ÇAY İŞLETMELERİ GENEL MÜDÜRLÜĞÜ
+KADOOĞLU PETROLCÜLÜK TAŞ. SAN. İTH. VE İHR. A.Ş.
+SETUR SERVİS TURİSTİK A.Ş.
+ISS TESİS YÖNETİM HİZMETLERİ A.Ş.
+ÇELİK MOTOR TİCARET A.Ş.
+TOSYALI TOYO ÇELİK A.Ş.
+MAKİNA VE KİMYA ENDÜSTRİSİ KURUMU
+TATMETAL ÇELİK SANAYİ VE TİCARET A.Ş.
+AĞAÇLI OTOMOTİV GIDA TİCARET VE SANAYİ A.Ş.
+AYDINLI HAZIR GİYİM SANAYİ VE TİCARET A.Ş.
+BORUSAN LOJİSTİK DAĞITIM DEPOLAMA TAŞIMACILIK VE TİCARET A.Ş.
+ATÜ TURİZM İŞLETMECİLİĞİ A.Ş.
+KİLİT GLOBAL TURİZM SEYAHAT SANAYİ VE TİCARET A.Ş.
+KEREVİTAŞ GIDA SANAYİ VE TİCARET A.Ş.
+OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş.
+OBA MAKARNACILIK SANAYİ VE TİCARET A.Ş.
+BORUSAN OTOMOTİV İTHALAT VE DAĞITIM A.Ş.
+AK-PA TEKSTİL İHRACAT PAZARLAMA A.Ş.
+GAMA ENERJİ A.Ş.
+MULTİNET KURUMSAL HİZMETLER A.Ş.
+TANTUR TURİZM SEYAHAT A.Ş.
+AKSA ELEKTRİK TOPTAN SATIŞ A.Ş.
+ERSER GRUP TARIM ÜRÜNLERİ SANAYİ VE TİCARET A.Ş.
+TEKLAS KAUÇUK SANAYİ VE TİCARET A.Ş.
+YAŞAR BİRLEŞİK PAZARLAMA DAĞITIM TURİZM VE TİC. A.Ş.
+ABALIOĞLU YAĞ SANAYİ VE TİCARET A.Ş.
+NAMET GIDA SAN. VE TİC. A.Ş.
+BRIGHTSTAR TELEKOMUNİKASYON VE DAĞITIM LTD. ŞTİ.
+TERMOPET AKARYAKIT NAKLİYAT VE TİC. LTD. ŞTİ.
+ABALIOĞLU YEM-SOYA VE TEKSTİL SANAYİ A.Ş.
+TURİSTİK HAVA TAŞIMACILIK A.Ş.
+ECZACIBAŞI YAPI GEREÇLERİ SANAYİ VE TİCARET A.Ş.
+SOFRA YEMEK ÜRETİM VE HİZMET A.Ş.
+BİRGİ BİRLEŞİK GİYİM İHRACATÇILARI DIŞ TİC. A.Ş.
+TÜRK TUBORG BİRA VE MALT SANAYİ A.Ş.
+BALPET PETROL ÜRÜNLERİ TAŞIMACILIK SAN. VE TİC. A.Ş.
+FNSS SAVUNMA SİSTEMLERİ A.Ş.
+MENGERLER TİCARET TÜRK A.Ş.
+BAŞAK METAL TİC. VE SAN. A.Ş.
+PRO YEM SANAYİ VE TİCARET A.Ş.
+ÖZDİLEK ALIŞ VERİŞ MERKEZLERİ VE TEKSTİL SANAYİ A.Ş.
+CP STANDART GIDA SANAYİ VE TİCARET A.Ş.
+ARMADA BİLGİSAYAR SİSTEMLERİ SANAYİ VE TİCARET A.Ş.
+GEDİZ ELEKTRİK DAĞITIM A.Ş.
+SARTEN AMBALAJ SANAYİ VE TİCARET A.Ş.
+DAIKIN ISITMA VE SOĞUTMA SİSTEMLERİ SAN. TİC. A.Ş.
+GALERİ KRİSTAL TURİZM İNŞAAT PAZ. VE TİC. A.Ş.
+BOYTAŞ MOBİLYA SANAYİ VE TİCARET A.Ş.
+INDORAMA VENTURES ÇORLU PET SANAYİ A.Ş.
+MERİNOS HALI SANAYİ VE TİCARET A.Ş.
+LİMAK ÇİMENTO SANAYİ VE TİCARET A.Ş.
+TÜRK PİRELLİ LASTİKLERİ A.Ş.
+ÇELEBİ HAVA SERVİSİ A.Ş.
+HES HACILAR ELEKTRİK SANAYİ VE TİCARET A.Ş.
+ÇORUH AKSA ELEKTRİK HİZMETLERİ A.Ş.
+TABAN GIDA DIŞ TİCARET A.Ş.
+AKÇANSA ÇİMENTO SANAYİ VE TİCARET A.Ş.
+MARS LOJİSTİK GRUP A.Ş
+AKENERJİ ELEKTRİK ÜRETİM A.Ş.
+FASDAT GIDA DAĞITIM SANAYİ VE TİCARET A.Ş.
+EKİM TURİZM TİC. VE SAN. A.Ş.
+S.S.TRAKYA YAĞLI TOHUMLAR TARIM SATIŞ KOOPERATİFLERİ BİRLİĞİ
+ET VE BALIK KURUMU GENEL MÜDÜRLÜĞÜ
+KOÇTAŞ YAPI MARKETLERİ TİCARET A.Ş.
+ASİL ÇELİK SANAYİ VE TİCARET A.Ş.
+TÜRKSAT UYDU HABERLEŞME KABLO TV VE İŞLETME A.Ş.
+KOÇ SİSTEM BİLGİ VE İLETİŞİM HİZMETLERİ A.Ş.
+TOSYALI FİLMAŞİN VE İNŞAAT DEMİR ÜRETİM SAN. A.Ş.
+KOCAER HADDECİLİK SANAYİ VE TİCARET A.Ş.
+ÖZKAN DEMİR ÇELİK SANAYİ A.Ş.
+ALARKO CARRIER SANAYİ VE TİCARET A.Ş.
+BAYEGAN DIŞ TİCARET A.Ş.
+GÜNEY ÇELİK HASIR VE DEMİR MAMULLERİ SANAYİ TİCARET A.Ş.
+GENSENTA İLAÇ SANAYİ VE TİCARET A.Ş.
+ETSUN ENTEGRE TARIM ÜRÜNLERİ SANAYİ VE TİCARET A.Ş.
+ÖZERDEM MENSUCAT SANAYİ VE TİCARET A.Ş.
+Akbank
+Aksa
+Alarko Holding
+Anadolu Isuzu
+Arçelik
+Arkem
+Assan
+ASELSAN
+Askam (trucks)
+Avea
+Aygaz
+Banvit
+Basak Traktor
+Beko Elektronik
+BMC
+Borusan Holding
+BOTAŞ
+Çalık Enerji
+Canovate
+Cengiz Holding
+Ciner Holding
+Çukurova Holding
+DenizBank
+Diardi
+Dilek Ecza Deposu
+Doğan Holding
+Doğtaş
+Doğuş Group
+DYO Boya Fabrikaları
+Eczacıbaşı
+Efes Beverage Group
+Elektrik Üretim
+Enerco Energy
+Enka Insaat ve Sanayi A.S.
+Erdem Architects
+Erdemir
+Erkunt Group
+Eser
+Estap
+EUROTAI
+EUROTEM
+Fibabanka
+Finansbank
+GAMA Endustri
+Garanti Bank
+Goldas
+Halk Bankasi
+Hunca Cosmetics
+Inebolu Shipyard
+Isdemir
+Metro
+Kalyon Group
+Kardemir Karabük Demir Çelik Fabrikalari A.S.
+Karsan
+Kayi Construction
+Kimetsan
+Koç Holding
+Koray Holding
+Koton
+Kristal Kola
+Limak Holding
+LittleBig
+Mako Elektrik
+Mavi Jeans
+Mechanical and Chemical Industry Corporation
+Migros Türk
+Nurol Holding
+Omsan
+OPET
+Otokar
+Otosan
+Oyak-Renault
+Ozaltin
+Pancar Motor
+Permak
+Petkim
+Petrol Ofisi
+Polimeks
+Poliya
+Sabanci Holding
+Sahinler Holding
+Salcano
+Sekerbank
+Solimpeks
+STFA Group
+Tabanlioglu Architects
+TAV Airports Holding
+Tekel
+Tekfen
+Temsa
+Tersan Shipyard
+Tofas
+TÜLOMSAŞ
+Tüpraş
+Türk Telekom
+Turkcell
+Turkish Aerospace Industries (TAI)
+Turkish Airlines
+Türkiye Is Bankasi
+Türkiye Petrolleri Anonim Ortaklığı (TPAO)
+Turkish State Railways
+TÜVASAŞ
+Ugur Cooling
+Ugur Group Companies
+Ülker
+VakifBank
+Vakko
+Vestel
+Vitra
+Yapi Merkezi
+Yapi ve Kredi Bankasi
+Yüksel Tohumculuk
+Ziraat Bankasi
+Zorlu Holding
+Zurich Insurance Group
+Zhejiang Geely Holding Group
+ZF Friedrichshafen
+Yankuang Group
+Yangquan Coal Industry Group
+Yango Longking Group
+XMXYG
+Xinjiang Guanghui Industry Investment
+Xiaomi
+Xiamen ITG Holding Group
+Xiamen C&D
+X5 Retail Group
+Wuchan Zhongda Group
+World Fuel Services
+Woolworths Group
+Wistron
+Wilmar International
+Westpac Banking
+Wells Fargo
+Walt Disney
+Walmart
+Walgreens Boots Alliance
+Volvo
+Volkswagen
+Vodafone Group
+Vinci
+ViacomCBS
+Verizon Communications
+Veolia Environnement
+Valero Energy
+Vale
+USAA
+US Foods Holding
+UPS
+UnitedHealth Group
+United Airlines Holdings
+Uniper
+Unilever
+UniCredit Group
+UBS Group
+U.S. Postal Service
+U.S. Bancorp
+Tyson Foods
+Tsingshan Holding Group
+Travelers
+Trafigura Group
+Toyota Tsusho
+Toyota Motor
+Total
+Toshiba
+Toronto-Dominion Bank
+TongLing Nonferrous Metals Group
+Tokyo Electric Power
+Tokio Marine Holdings
+TJX
+TIAA
+ThyssenKrupp
+Thermo Fisher Scientific
+Tesco
+Tencent Holdings
+Telefónica
+Tech Data
+Tata Motors
+Target
+Talanx
+Takeda Pharmaceutical
+Taiwan Semiconductor Manufacturing
+Taikang Insurance Group
+Sysco
+Swiss Re
+Suzuki Motor
+Suning.com Group
+Suncor Energy
+Sun Life Financial
+Sumitomo Mitsui Financial Group
+Sumitomo Life Insurance
+Sumitomo Electric Industries
+Sumitomo
+Subaru
+StoneX Group
+State Power Investment
+State Grid
+State Farm Insurance
+State Bank of India
+Starbucks
+Sony
+Sompo Holdings
+SoftBank Group
+Société Générale
+SNCF Group
+SK Holdings
+Sinopharm
+Sinopec Group
+Sinomach
+Sinochem Group
+Siemens
+Shougang Group
+Shenzhen Investment Holdings
+Shenghong Holding Group
+Shanxi LuAn Mining Group
+Shanxi Coking Coal Group
+Shanghai Pudong Development Bank
+Shanghai Pharmaceuticals Holding
+Shanghai Construction Group
+Shandong Weiqiao Pioneering Group
+Shandong Iron & Steel Group
+Shandong Energy Group
+Shaanxi Yanchang Petroleum (Group)
+Shaanxi Coal & Chemical Industry
+Seven & I Holdings
+Schneider Electric
+Schlumberger
+Sberbank
+Saudi Aramco
+SAP
+Sanofi
+Samsung Life Insurance
+Samsung Electronics
+Samsung C&T
+Saint-Gobain
+SAIC Motor
+Safran
+Royal Dutch Shell
+Royal Bank of Canada
+Royal Ahold Delhaize
+Rosneft Oil
+Roche Group
+Rio Tinto Group
+Repsol
+Renault
+Reliance Industries
+Raytheon Technologies
+Randstad
+Rajesh Exports
+Quanta Computer
+Publix Super Markets
+PTT
+Prudential Financial
+Prudential
+Progressive
+Procter & Gamble
+PowerChina
+Power Corp. of Canada
+Poste Italiane
+POSCO
+Plains GP Holdings
+PKN ORLEN Group
+Ping An Insurance
+Phoenix Pharma
+Phoenix Group Holdings
+Phillips 66
+Philip Morris International
+Pfizer
+Peugeot
+Petronas
+Petrobras
+PepsiCo
+People's Insurance Co. of China
+Pemex
+Pegatron
+Panasonic
+Pacific Construction Group
+Paccar
+Orange
+Oracle
+OMV Group
+Oil & Natural Gas
+Novartis
+Northwestern Mutual
+Northrop Grumman
+Nokia
+Nissan Motor
+Nippon Telegraph and Telephone
+Nippon Steel Corporation
+Nippon Life Insurance
+Nike
+New York Life Insurance
+Nestlé
+NEC
+Naturgy Energy Group
+Nationwide
+Munich Re Group
+MS&AD Insurance Group Holdings
+Morgan Stanley
+Mondelez International
+Mizuho Financial Group
+Mitsui
+Mitsubishi UFJ Financial Group
+Mitsubishi Heavy Industries
+Mitsubishi Electric
+Mitsubishi Chemical Holdings
+Mitsubishi
+Migros Group
+Midea Group
+Microsoft
+Michelin
+Metro
+MetLife
+Merck
+Meiji Yasuda Life Insurance
+Medtronic
+Medipal Holdings
+McKesson
+Mazda Motor
+Massachusetts Mutual Life Insurance
+Marubeni
+Marathon Petroleum
+Mapfre Group
+Manulife Financial
+Magna International
+Maersk Group
+M&G
+LyondellBasell Industries
+Lukoil
+Lufthansa Group
+Lowe's
+L'Oréal
+Lockheed Martin
+Lloyds Banking Group
+Linde
+Liberty Mutual Insurance Group
+LG Electronics
+Lenovo Group
+Legal & General Group
+LafargeHolcim
+La Poste
+Kroger
+Korea Electric Power
+Koç Holding
+Kia Motors
+KDDI
+KB Financial Group
+Kansai Electric Power
+JPMorgan Chase
+Johnson Controls International
+Johnson & Johnson
+Jizhong Energy Group
+Jinchuan Group
+Jiangxi Copper
+Jiangsu Shagang Group
+JFE Holdings
+JD.com
+JBS
+Jardine Matheson
+Japan Post Holdings
+J. Sainsbury
+Itochu
+Itaú Unibanco Holding
+Intesa Sanpaolo
+International Business Machines
+International Airlines Group
+Intel
+ING Group
+Industrial Bank
+Industrial & Commercial Bank of China
+Inditex
+Indian Oil
+Idemitsu Kosan
+Iberdrola
+Hyundai Motor
+Hyundai Mobis
+Humana
+Huaxia Life Insurance
+Huawei Investment & Holding
+HSBC Holdings
+HP
+Honeywell International
+Honda Motor
+Hon Hai Precision Industry
+Home Depot
+Hitachi
+Hewlett Packard Enterprise
+Hengli Group
+Henan Energy & Chemical
+Heineken
+HCA Healthcare
+HBIS Group
+Hanwha
+Hailiang Group
+Haier Smart Home
+Guangzhou Automobile Industry Group
+Guangxi Investment Group
+GS Caltex
+Groupe BPCE
+Greenland Holding Group
+Gree Electric Appliances
+Goldman Sachs Group
+Glencore
+GlaxoSmithKline
+George Weston
+General Motors
+General Electric
+General Dynamics
+Gazprom
+Fujitsu
+Fubon Financial Holding
+Fresenius
+Freddie Mac
+Ford Motor
+Fomento Económico Mexicano
+Finatis
+Financière de l'Odet
+FedEx
+Fannie Mae
+Facebook
+Exxon Mobil
+EXOR Group
+Exelon
+Equinor
+Enterprise Products Partners
+ENI
+Engie
+Energy Transfer
+ENEOS Holdings
+Enel
+Enbridge
+Electricité de France
+Edeka Zentrale
+East Japan Railway
+E.ON
+DZ Bank
+Dow
+Dongfeng Motor
+Dollar General
+Deutsche Telekom
+Deutsche Post DHL Group
+Deutsche Bank
+Deutsche Bahn
+Denso
+Delta Air Lines
+Dell Technologies
+Deere
+Datong Coal Mine Group
+Danone
+Daiwa House Industry
+Daimler
+Dai-ichi Life Holdings
+CVS Health
+CRRC Group
+CRH
+Credit Suisse Group
+Crédit Agricole
+CPC
+Country Garden Holdings
+Costco Wholesale
+Coop Group
+Continental
+ConocoPhillips
+Compass Group
+Compal Electronics
+Commonwealth Bank of Australia
+Comcast
+Coles Group
+COFCO
+Coca-Cola
+CNP Assurances
+CMA CGM
+CK Hutchison Holdings
+CJ Corp.
+Citigroup
+CITIC Group
+Cisco Systems
+Cigna
+Chubu Electric Power
+Chubb
+CHS
+Christian Dior
+China Vanke
+China United Network Communications
+China Telecommunications
+China Taiping Insurance Group
+China State Construction Engineering
+China Southern Power Grid
+China South Industries Group
+China Resources
+China Railway Engineering Group
+China Railway Construction
+China Post Group
+China Poly Group
+China Pacific Insurance (Group)
+China North Industries Group
+China National Petroleum
+China National Offshore Oil
+China National Nuclear
+China National Coal Group
+China National Building Material Group
+China National Aviation Fuel Group
+China Mobile Communications
+China Minsheng Banking
+China Minmetals
+China Merchants Group
+China Merchants Bank
+China Life Insurance
+China Huaneng Group
+China Huadian
+China General Technology
+China FAW Group
+China Evergrande Group
+China Everbright Group
+China Energy Investment
+China Energy Engineering Group
+China Electronics Technology Group
+China Electronics
+China Datang
+China COSCO Shipping
+China Construction Bank
+China Communications Construction
+China Baowu Steel Group
+China Aerospace Science & Technology
+China Aerospace Science & Industry
+Chevron
+ChemChina
+Charter Communications
+CFE
+Centrica
+Centene
+Cedar Holdings Group
+Cathay Financial Holding
+Caterpillar
+Carrefour
+Cardinal Health
+Capital One Financial
+Canon
+Caixa Econômica Federal
+Bunge
+BT Group
+Brookfield Asset Management
+British American Tobacco
+Bristol-Myers Squibb
+Bridgestone
+BP
+Bouygues
+Bosch Group
+Boeing
+BNP Paribas
+BMW Group
+BHP Group
+Bharat Petroleum
+Best Buy
+Berkshire Hathaway
+Beijing Automotive Group
+Bayer
+BASF
+Barclays
+Bank of Nova Scotia
+Bank of Montreal
+Bank of Communications
+Bank of China
+Bank of America
+Banco Santander
+Banco do Brasil
+Banco Bradesco
+Banco Bilbao Vizcaya Argentaria
+AXA
+Aviva
+Aviation Industry Corp. of China
+Auchan Holding
+AT&T
+Assicurazioni Generali
+Arrow Electronics
+Archer Daniels Midland
+ArcelorMittal
+Apple
+Anthem
+Ansteel Group
+Anhui Conch Group
+Anglo American
+AmerisourceBergen
+American International Group
+American Express
+American Airlines Group
+América Móvil
+Amer International Group
+Amazon.com
+Aluminum Corp. of China
+Alphabet
+Allstate
+Allianz
+Alimentation Couche-Tard
+Alibaba Group Holding
+Albertsons
+Aisin Seiki
+Airbus
+Air France-KLM Group
+AIA Group
+Agricultural Bank of China
+AEON
+Aegon
+Adidas
+Adecco Group
+ACS
+Achmea
+Accenture
+AbbVie
+Abbott Laboratories
+ABB
+AB InBev
+3M
+ICBC
+China Construction Bank
+JPMorgan Chase
+Berkshire Hathaway
+Agricultural Bank of China
+Saudi Arabian Oil Company (Saudi Aramco)
+Ping An Insurance Group
+Bank of America
+Apple
+Bank of China
+AT&T
+Toyota Motor
+Alphabet
+ExxonMobil
+Microsoft
+Samsung Electronics
+Wells Fargo
+Citigroup
+Walmart
+Verizon Communications
+Royal Dutch Shell
+Amazon
+Volkswagen Group
+UnitedHealth Group
+Allianz
+China Merchants Bank
+Comcast
+China Mobile
+Total
+Postal Savings Bank Of China (PSBC)
+Alibaba Group
+Gazprom
+PetroChina
+Johnson & Johnson
+RBC
+Walt Disney
+China Life Insurance
+Intel
+Facebook
+CVS Health
+Nestlé
+BNP Paribas
+Nippon Telegraph & Tel
+HSBC Holdings
+Bank of Communications
+TD Bank Group
+Goldman Sachs Group
+Morgan Stanley
+Pfizer
+Tencent Holdings
+IBM
+Mitsubishi UFJ Financial
+General Electric
+Rosneft
+Santander
+Anheuser-Busch InBev
+Industrial Bank
+Reliance Industries
+Sony
+Sinopec
+Chevron
+Siemens
+Cigna
+AXA Group
+Shanghai Pudong Development
+AIA Group
+Softbank
+Novartis
+Deutsche Telekom
+Petrobras
+Procter & Gamble
+Japan Post Holdings
+LVMH Moët Hennessy Louis Vuitton
+Roche Holding
+BMW Group
+Zurich Insurance Group
+CITIC
+Itaú Unibanco Holding
+China State Construction Engineering
+MetLife
+Sumitomo Mitsui Financial
+Cisco Systems
+Honda Motor
+Commonwealth Bank
+Bank of Nova Scotia
+Raytheon Technologies
+PepsiCo
+American Express
+General Motors
+China Minsheng Bank
+British American Tobacco
+Merck & Co.
+BHP Group
+Oracle
+Brookfield Asset Management
+Coca-Cola
+Enel
+GlaxoSmithKline
+LukOil
+China Vanke
+Banco Bradesco
+Bayer
+US Bancorp
+Mitsubishi
+Anthem
+Home Depot
+BASF
+Taiwan Semiconductor
+UBS
+Unilever
+Country Garden Holdings
+EDF
+China Citic Bank
+Rio Tinto
+Lloyds Banking Group
+Prudential Financial
+Sanofi
+Credit Agricole
+AbbVie
+Iberdrola
+Hon Hai Precision
+KDDI
+Enbridge
+Manulife
+Intesa Sanpaolo
+CNOOC
+Dell Technologies
+Westpac Banking Group
+Medtronic
+China Pacific Insurance
+SAIC Motor
+Bank of Montreal
+Caterpillar
+Chubb
+Itochu
+Walgreens Boots Alliance
+VINCI
+Bristol-Myers Squibb
+PNC Financial Services
+Generali Group
+Visa
+Costco Wholesale
+United Parcel Service
+Duke Energy
+Lockheed Martin
+HDFC Bank
+Allstate
+China Everbright Bank
+Charter Communications
+SAP
+Tokio Marine Holdings
+CK Hutchison
+Honeywell International
+China Evergrande Group
+American International Group
+Orange
+América Móvil
+Abbott Laboratories
+Bank of New York Mellon
+Credit Suisse Group
+Capital One Financial
+Amgen
+Truist Financial
+ANZ
+Equinor
+Mitsui
+Oversea-Chinese Banking
+China Shenhua Energy
+Exelon
+PTT
+State Bank of India
+Poly Developments & Holdings Group
+Lowe's
+China Telecom
+Southern Company
+L'Oréal
+BlackRock
+Linde
+Canadian Imperial Bank
+NextEra Energy
+Barclays
+Deere & Company
+Union Pacific
+Thermo Fisher Scientific
+Deutsche Post
+Gilead Sciences
+Phillips 66
+Mondelez International
+Hyundai Motor
+Qatar National Bank
+NAB - National Australia Bank
+Broadcom
+Legal & General Group
+ING Group
+3M
+Target
+Marathon Petroleum
+Hitachi
+ConocoPhillips
+UniCredit
+Philip Morris International
+China Railway Group
+Accenture
+Munich Re
+Royal Bank of Scotland
+Banco do Brasil
+McDonald's
+China Resources Land
+China Railway Construction
+Saudi Basic Industries
+Aviva
+General Dynamics
+MS&AD Insurance
+PICC
+Aflac
+E.ON
+Travelers
+Prudential
+Eli Lilly
+Kraft Heinz Company
+Sunac China Holdings
+Charles Schwab
+HCA Healthcare
+Danaher
+Schneider Electric
+Société Générale
+Midea Group
+Dai-ichi Life Insurance
+ENGIE
+Fiat Chrysler Automobiles
+Volvo Group
+Seven & I Holdings
+Humana
+Longfor Group Holdings
+AstraZeneca
+JD.com
+Air Liquide
+Fresenius
+Northrop Grumman
+Mizuho Financial
+Sun Life Financial
+Inditex
+Nike
+Gree Electric Appliances
+Central Japan Railway
+Danone
+PayPal
+Cathay Financial
+Surgutneftegas
+Suncor Energy
+Standard Chartered
+Tesco
+ICICI Bank
+Panasonic
+Safran
+Qualcomm
+Royal Ahold Delhaize N.V.
+KBC Group
+East Japan Railway
+National Grid
+Delta Air Lines
+Peugeot
+Telefónica
+Kroger
+China Communications Construction
+Shinhan Financial Group
+Oil & Natural Gas
+Sun Hung Kai Properties
+Huaxia Bank
+Fubon Financial
+Diageo
+Anglo American
+Mastercard
+Dominion Energy
+Micron Technology
+KB Financial Group
+HDFC
+LafargeHolcim
+United Overseas Bank
+Bank of Beijing
+Japan Tobacco
+Netflix
+Centene
+China Unicom
+Jardine Matheson
+Starbucks
+American Electric
+Sumitomo
+Nordea Bank
+Orix
+TJX Cos
+Mitsubishi Electric
+State Street
+SK Hynix
+RWE Group
+ABB
+Nomura
+BCE
+Automatic Data Processing
+HP
+First Abu Dhabi Bank
+EssilorLuxottica
+Henkel
+Canadian Natural Resources
+Greenland Holdings Group
+EMD Group
+Swiss Re
+Bank Of Shanghai
+Archer Daniels Midland
+Anhui Conch Cement
+Ecopetrol
+BT Group
+Poste Italiane
+Novatek
+TC Energy
+CRH
+Macquarie Group
+BBVA-Banco Bilbao Vizcaya
+JXTG Holdings
+Kering
+Baoshan Iron & Steel
+Daiwa House Industry
+Couche Tard
+Daimler
+Bridgestone
+Fannie Mae
+Tyson Foods
+New China Life Insurance
+Saint-Gobain
+CSX
+DNB
+Novo Nordisk
+Saudi Telecom
+LyondellBasell Industries
+EOG Resources
+Sempra Energy
+Eaton
+Freddie Mac
+Heineken
+Kweichow Moutai
+CK Asset Holdings
+Becton Dickinson
+Stryker
+CRRC
+Bank Rakyat Indonesia (BRI)
+China Merchants Shekou Industrial Zone Holdings
+Maybank
+Kinder Morgan
+Emirates NBD
+Marsh & McLennan
+Ameriprise Financial
+Dollar General
+Shin-Etsu Chemical
+Barrick Gold
+BP
+Etisalat
+Canon
+Sompo
+ASML Holding
+Natixis
+Vivendi
+Swiss Life Holding
+Posco
+Biogen
+Mitsui Fudosan
+Canadian National Railway
+Booking Holdings
+NN Group
+Fosun International
+Wilmar International
+General Mills
+Carrefour
+Daikin Industries
+Tata Consultancy Services
+Power Corp of Canada
+Boston Scientific
+Discover Financial Services
+Synchrony Financial
+Michelin Group
+Paccar
+Sumitomo Mitsui Trust
+Xiaomi
+Hartford Financial Services
+Philips
+IntercontinentalExchange
+Norfolk Southern
+BAE Systems
+Indian Oil
+Bank of Ningbo
+Sysco
+CNP Assurances
+Denso
+Newmont Mining
+National Commercial Bank
+Adidas
+CTBC Financial
+Kuwait Finance House
+Nan Ya Plastics
+Ball
+Deutsche Wohnen
+Shaanxi Coal Industry
+Meituan Dianping
+Restaurant Brands International
+Chunghwa Telecom
+HCL Technologies
+Ameren
+Schindler Holding
+Zoetis
+Oneok
+Saudi British Bank
+Chongqing Rural Bank
+Ryanair Holdings
+BOE Technology Group
+Idemitsu Kosan
+Toshiba
+Power Finance
+Asr Nederland
+STMicroelectronics
+Assa Abloy
+QBE Insurance Group
+Equitable Holdings
+Phoenix Group Holdings
+CDW
+Tata Steel
+Hormel Foods
+Toray Industries
+Rakuten
+BYD
+Whirlpool
+CMS Energy
+Quanta Computer
+Koç Holding
+Banco de Sabadell
+Formosa Plastics
+Amphenol
+Seagate Technology
+OTP Bank
+Luxshare Precision Industry
+SVB Financial Group
+Uni-President
+Power Grid of India
+Bank Leumi
+DSV Panalpina
+Hershey
+Electronic Arts
+Akbank
+Hanwha
+American Financial Group
+Genuine Parts
+Trip.com Group
+Bangkok Bank
+Bancolombia
+United Rentals
+China Gas Holdings
+Global Payments
+Fortive
+Leonardo
+China Jinmao
+Equinix
+Old Mutual
+China Eastern Airlines
+Freeport-McMoRan
+Jinke Property Group
+DaVita
+Sandvik
+MediaTek
+China Gezhouba
+RiseSun Real Estate Development
+Intact Financial
+Tohoku Electric Power
+New Hope Liuhe
+ASE Technology Holding
+Towngas
+Corning
+T Rowe Price
+Liberty Global
+Snam
+Equity Residential
+Pembina Pipeline
+Baker Hughes Company
+NRG Energy
+Sabanci Holding
+NortonLifeLock
+Shiseido
+St. James's Place
+Sanlam
+Vedanta Limited
+China National Nuclear Power
+E.Sun Financial
+Guangzhou Automobile Group
+CEZ Group
+Wipro
+Beiersdorf
+Guangzhou Rural Commercial Bank
+ITC
+CIFI Holdings Group
+China Southern Airlines
+Yanzhou Coal Mining
+Nedbank
+E-Trade Financial
+Motorola Solutions
+Daiwa Securities
+Vertex Pharmaceuticals
+Gallagher
+Moody's
+Western Digital
+GF Securities
+Akzo Nobel
+Rolls-Royce Holdings
+Alleghany
+WW Grainger
+BAIC Motor
+Shanghai International Port
+Stora Enso
+Fukuoka Financial Group
+Constellation Brands
+SK Innovation
+Tokyo Gas
+Kajima
+Air Canada
+Dubai Islamic Bank
+Banque Saudi Fransi
+Itaúsa
+Lonza Group
+BDO Unibank
+Joint Stock Commercial Bank for Foreign Trade of Vietnam
+Iliad
+First Financial Holding
+Banco BPM
+Shimizu
+Aena
+Agile Group Holdings
+Contemporary Amperex Technology
+Isuzu Motors
+Legrand
+Digital Realty Trust
+Mazda Motor
+Scor
+Japan Airlines
+Bajaj Finserv
+Cintas
+Intuitive Surgical
+Chugoku Electric Power
+Altice USA
+CGI Group
+PKO Bank Polski
+Grifols
+Sika
+Huaneng Power International
+Japan Exchange Group
+Suntory Beverage & Food
+Muyuan Foodstuff
+Hindalco Industries
+Sharp
+American Airlines Group
+Amadeus IT Group
+Molina Healthcare
+Novolipetsk Steel
+Hoya
+Yara International
+Qatar Islamic Bank
+Galaxy Entertainment
+Welltower
+China Development Financial
+Helvetia Holding
+China Hongqiao Group
+Tokyu
+Adecco
+Emaar Properties
+KT
+Public Storage
+AvalonBay Communities
+IHS Markit
+Taiwan Cooperative Financial
+PG&E
+Toppan Printing
+Mitsubishi UFJ Lease
+Yum! Brands
+Turkish Airlines
+Amcor
+Boston Properties
+Osaka Gas
+Financiere de l'Odet
+ENN Energy Holdings
+Leidos
+Vornado Realty
+China Merchants Securities
+Macy's
+Alcon
+EN+ Group International
+Thai Beverage
+Gecina
+VakifBank
+Edwards Lifesciences
+ATOS
+Skanska
+Shanghai Pharmaceuticals
+American Water Works
+Halliburton
+China Life Insurance (Taiwan)
+Arab National Bank
+Randstad N.V.
+KLA
+Zhongsheng Group Holdings
+Guosen Securities
+Twitter
+China Huarong Asset Management
+Dassault Systemes
+Polyus
+Bank Hapoalim
+Grupo Elektra
+Finatis
+NXP Semiconductors
+Aroundtown
+China Mengniu Dairy
+Jiangsu Zhongnan Construction Group
+Evergy
+Givaudan
+JM Smucker
+iA Financial Corporation
+WR Berkley
+SMC
+ThyssenKrupp Group
+AMP
+Tata Motors
+Illumina
+Advanced Micro Devices
+Microchip Technology
+Pan Pacific International Holdings
+Shanghai Construction
+China Resources Power
+MOL Hungarian Oil
+Clorox
+Krung Thai Bank
+Kerry Group
+BBMG
+Monster Beverage
+HAL Trust
+Severstal
+Genworth Financial
+Bank Negara Indonesia
+Terumo
+Bank of Greece
+Eastman Chemical
+Quest Diagnostics
+J Sainsbury
+Shanghai Electric Group
+Grasim Industries
+Eisai
+Jefferies Financial
+Bank of Baroda
+Rockwell Automation
+Ashtead Group
+Jiangsu Hengrui Medicine
+Rongsheng Petrochemical
+Advanced Info Service
+Tokyo Century
+Align Technology
+Charoen Pokphand Foods
+Beijing Enterprises
+Foshan Haitian Flavouring and Food
+Yuanta Financial Holding
+Mediobanca
+Swatch Group
+Julius Baer Group
+Lundbergs
+Hua Nan Financial
+Paychex
+Terna
+Yango Group
+GD Power Development
+LabCorp
+Sun Art Retail Group
+Jeronimo Martins
+Fanuc
+Marvell Technology Group
+China Resources Pharmaceutical Group
+ServiceNow
+Lear
+Delta Electronics
+Markel
+TUI
+Inter Rao
+Air France-KLM
+Falabella
+SDIC Power Holdings
+Hankyu Hanshin Holdings
+Universal Health
+Yum China Holdings
+UCB
+Metro
+Mylan
+PulteGroup
+CJ Corporation
+Investec
+Knorr-Bremse
+Sojitz
+Vipshop Holdings
+Altice Europe
+Textron
+Brown-Forman
+Assurant
+Ferrovial
+JSW Steel
+Olympus
+Bank of Ireland
+Lotte Chemical
+LG Household & Health Care
+AES
+Bank Of Guiyang
+Kyushu Electric Power
+Alinma Bank
+Crown Holdings
+China Steel
+Cadence Design
+Kohl's
+Bank of Tianjin
+Shenzhen Mindray Bio-Medical Electronics
+Vienna Insurance Group
+Agilent Technologies
+Cosco Shipping
+Airports of Thailand
+Jiangsu Yanghe Brewery
+Fastenal
+All Nippon Airways
+Attijariwafa Bank
+X5 Retail Group
+SGS
+LG
+C.H. Robinson
+Dover
+Csc Financial
+Interpublic Group
+Dassault Aviation
+NVR
+Origin Energy
+Ferrari
+Waste Connections
+Bio-Rad Laboratories
+China Aoyuan Group
+FleetCor Technologies
+Comerica
+Singapore Airlines
+Experian
+Kaisa Group Holdings
+Molson Coors Brewing
+AerCap Holdings
+Inner Mongolia Baotou Steel
+Ametek
+Shionogi
+NASDAQ
+Shenwan Hongyuan Group
+Bank of Changsha
+Techtronic Industries
+Huadian Power International
+Aluminum Corp of China
+Korea Gas
+Top Frontier Investment Holdings
+Bank Of Chengdu
+Mitsubishi Motors
+Scentre Group
+Partners Group Holding
+LKQ
+VeriSign
+Ulta Beauty
+Globe Life
+Brighthouse Financial
+Longi Green Energy Technology
+LARGAN Precision
+Campbell Soup
+McCormick
+Anta Sports Products
+MTN Group
+Solvay
+Nitori Holdings
+Schroders
+Mondi
+HollyFrontier
+GS Holdings
+Quilter
+Ricoh
+China International Capital
+Galp Energia
+Centrica
+Punjab National Bank
+Yamaha Motor
+Db Insurance
+Franklin Resources
+Expeditors International
+Wolters Kluwer
+Xilinx
+Oriental Land
+Goodman Group
+Tractor Supply
+Oji Holdings
+Invesco
+Lululemon Athletica
+Samsung SDI
+Zhongliang Holdings
+Bankinter
+Meiji Holdings
+Hesteel
+Coloplast
+KWG Group Holdings
+DXC Technology
+Jiangxi Copper
+China Resources Gas Group
+Darden Restaurants
+Aeroports de Paris
+Garmin
+Hydro One
+Datang International Power
+Daito Trust Construction
+LG Display
+Howmet Aerospace
+Storebrand
+Valeo
+AntarChile
+Bunge
+Segro
+NEXON
+Ayala Corp
+Skyworks Solutions
+360 Security Technology
+Canara Bank
+Arista Networks
+Naver
+Saputo
+Shanghai Commercial & Savings Bank
+Bankia
+Insurance Australia Group
+Ahli United Bank
+Transurban Group
+Olam International
+Halkbank
+Mohawk Industries
+Hexagon
+AGC
+J.B. Hunt Transport Services
+Zions Bancorp
+Hess
+Power Assets Holdings
+Jones Lang LaSalle
+OMRON
+GAIL India
+Annaly Capital Management
+HNA Technology
+Masraf Al Rayan
+Realty Income
+KPN
+Wuchan Zhongda Group
+Midea Real Estate Holding
+Sasol
+Cosmo Energy Holdings
+Citrix Systems
+Copart
+Cerner
+Wm Morrison Supermarkets
+Umicore
+Brenntag
+Metro Group
+Check Point Software
+Banca Mediolanum
+Kintetsu
+Hyundai Steel
+Bank of Jinzhou
+Popular
+Yonghui Superstores
+China Galaxy Securities
+Shenzhou International Group Holdings
+Fidelity National Financial
+NetApp
+Hyundai Marine & Fire
+Emera
+3i Group
+Lotte Shopping
+Melrose Industries
+Bank of Chongqing
+Mahindra & Mahindra
+TCL
+Korea Investment Holdings
+BCI-Banco Credito
+RHB Bank
+ALFA
+Unicharm
+Maxim Integrated Products
+Shinsei Bank
+Signature Bank
+Penske Automotive
+Concordia Financial Group
+Hyundai Heavy Industries Holdings
+MSCI
+Chiba Bank
+Jiangsu Zhangjiagang Rural Commercial Bank
+Verbund
+Keysight Technologies
+Ventas
+Samsung SDS
+Harbin Bank
+Hopson Development Holdings
+Mirae Asset Daewoo
+SYNNEX
+Westinghouse Air Brake Technologies
+Church & Dwight
+Luzhou Lao Jiao
+Alliant Energy
+Tenet Healthcare
+Mizrahi Tefahot Bank
+Sunny Optical Technology Group
+Schaeffler
+China Shipbuilding Industry
+Smith & Nephew
+Tingyi Holding
+CJ Cheiljedang
+Cemex
+Woodside Petroleum
+Spotify Technology
+Bandai Namco Holdings
+Doosan
+Qantas Airways
+Quinenco
+Times Property Holdings
+East West Bancorp
+Starwood Property Trust
+Ooredoo Q.P.S.C
+People's United Financial
+RenaissanceRe Holdings
+Dentsu
+Banco Btg Pactual
+Bombardier
+Celanese
+Yunnan Baiyao Group
+Zhongyuan Bank
+AGL Energy
+Jacobs
+Cathay Pacific Airways
+Bank of India
+Hunan Valin Steel
+Bausch Health Companies
+Keppel
+Greentown China Holdings
+Cincinnati Financial
+IndusInd Bank
+BorgWarner
+Host Hotels & Resorts
+Canadian Tire
+Geberit
+Bank Pekao
+YPF
+Weyerhaeuser
+Covivio
+Old Dominion Freight Line
+Wuestenrot & Wuerttembergische
+Kobe Steel
+SG Holdings
+Ronshine China Holdings
+Migdal Insurance
+Packaging Corp of America
+B3
+Match Group
+Smurfit Kappa Group
+Red Eléctrica
+VEON
+Coca-Cola HBC
+Fastighets Balder
+Bank of Zhengzhou
+SLM
+Mebuki Financial Group
+Tech Data
+China Feihe
+Aramark
+Meritz Financial Group
+Suzano Papel e Celulose
+Israel Discount Bank
+ResMed
+China Grand Automotive Services
+JG Summit Holdings
+Henry Schein
+Arkema
+Advance Auto Parts
+Norwegian Cruise Line Holdings
+Bank of Guizhou
+Burlington Stores
+Great Wall Motor
+Vulcan Materials
+Alaska Air Group
+Chow Tai Fook Jewellery
+Hang Lung Group
+Iida Group Holdings
+Meritz Securities
+XPO Logistics
+Chang Hwa Bank
+Cencosud
+Nomura Research Institute
+Huntington Ingalls Industries
+ICA Gruppen
+Zain
+Cenovus Energy
+Synopsys
+Sistema
+Medipal Holdings
+Alstom
+Banque Cantonale Vaudoise
+Avery Dennison
+China National Chemical
+Hyundai Engineering
+BNK Financial Group
+Covestro
+RSA Insurance Group
+Bunzl
+China Resources Cement Holdings
+Shanghai International Airport
+Mettler-Toledo International
+SS&C Technologies
+Taishin Financial Holdings
+Beijing Capital Development
+Lixil Group
+AGNC Investment
+Far East Horizon
+LEG Immobilien AG
+Nippon Paint
+New Residential Investment
+Grupo Bimbo
+Sino-Ocean Group Holding
+Sumitomo Metal Mining
+Lindt & Sprungli
+Bawag Group
+SCA
+Verisk Analytics
+Masco
+Husky Energy
+Alexandria Real Estate Equities
+BPER Banca
+S-Oil
+Guangdong Investment
+Commercial Bank For Investment & Development Of Vietnam
+Arrow Electronics
+AutoNation
+Caesars Entertainment
+NiSource
+Metropolitan Bank & Trust
+Bank of East Asia
+Western Union
+Atmos Energy
+Commercial International Bank
+Persimmon
+Norsk Hydro
+GCI Liberty
+KION Group
+STRABAG
+China Molybdenum
+Sofina
+Halyk Bank
+Arab Bank
+Barratt Developments
+Zhejiang Zheneng Electric Power
+Hong Leong Financial
+Colruyt
+Shizuoka Bank
+Abu Dhabi Islamic Bank
+Arca Continental
+Cattolica Assicurazioni
+Yuexiu Property
+SKF Group
+iHeartMedia
+Navient
+Teleflex
+Korea Shipbuilding & Offshore Engineering
+Weatherford International
+Ansys
+Sun Pharma Industries
+China International Marine
+IDEXX Laboratories
+NARI Technology Development
+Empire
+China Communications Services
+Onex
+Nordstrom
+Synovus Financial
+Kerry Properties
+Pinnacle West
+UBI Banca
+Hainan Airlines
+Nippon Yusen
+Tiffany & Co.
+Hologic
+AECOM Technology
+China Conch Venture Holdings
